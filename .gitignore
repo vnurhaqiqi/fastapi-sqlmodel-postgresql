@@ -138,3 +138,5 @@ dmypy.json
 cython_debug/
 run.sh
 alembic-migration.sh
+
+.idea/
