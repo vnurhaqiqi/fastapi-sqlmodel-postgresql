@@ -136,7 +136,5 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-run.sh
-alembic-migration.sh
 
 .idea/
